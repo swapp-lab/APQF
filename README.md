@@ -42,10 +42,10 @@ If you use or discuss APQF, please cite the arXiv paper:
 
 ```bibtex
 @article{jafari2026apqf,
-  title   = {APQF: Agentic Profiling-Guided Structured Pruning and Mixed-Precision Quantization with Adaptive Fine-Tuning},
-  author  = {Jafari, Sadegh and Bilwal, Mohiuddin and Zhou, Fan and Gelder, Brian and Jannesari, Ali},
-  journal = {arXiv preprint arXiv:2608.05499},
-  year    = {2026}
+  title={APQF: Agentic Profiling-Guided Structured Pruning and Mixed-Precision Quantization with Adaptive Fine-Tuning},
+  author={Jafari, Sadegh and Bilwal, Mohiuddin and Zhou, Fan and Gelder, Brian and Jannesari, Ali},
+  journal={arXiv preprint arXiv:2608.05499},
+  year={2026}
 }
 ```
 
